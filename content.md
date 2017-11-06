@@ -212,4 +212,5 @@ Note:
 - 今の技術も5年後10年後には使えない。プログラミングを続けるための勉強は終わらない。これができない人は35歳頃に脱落していく「プログラマ35歳定年説」
 ---
 
+<!-- .slide: data-background-image="https://www.flickr.com/photos/hichako/6520561717/sizes/l" -->
 # piyo
