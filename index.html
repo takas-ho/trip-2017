@@ -7,6 +7,16 @@
 		<link rel="stylesheet" href="reveal.js/css/reveal.css">
 		<link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
 		<link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+		<style type="text/css">
+			.reveal h1,
+			.reveal h2,
+			.reveal h3,
+			.reveal h4,
+			.reveal h5,
+			.reveal h6 {
+				text-transform: none;
+			}
+		</style>
 		<script>
 			var link = document.createElement( 'link' );
 			link.rel = 'stylesheet';
@@ -21,7 +31,11 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section data-markdown="content.md" data-background-color="#1D2088"></section>
+				<section data-markdown="content.md"
+					data-separator="^---$"
+					data-separator-vertical="^--$"
+					data-separator-notes="^Note:"
+					></section>
 			</div>
 		</div>
 
@@ -31,16 +45,38 @@
 			Reveal.initialize({
 				controls: true,
 				progress: true,
+				slideNumber: 'c/t',
 				history: true,
 				center: true,
-				transition: 'convex',
+				transition: 'slide',
+				//parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				parallaxBackgroundImage: 'https://farm5.staticflickr.com/4548/24314579948_0ceb6da119_h.jpg',
+				//parallaxBackgroundImage: 'https://farm6.staticflickr.com/5602/15399341728_b722c3d92a_k.jpg',
+				parallaxBackgroundSize: '100% auto',
+				parallaxBackgroundHorizontal: 0,
+				parallaxBackgroundVertical: 0,
 				dependencies: [
+					// Cross-browser shim that fully implements classList - https://github.com/eligrey/classList.js/
 					{ src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+
+					// Interpret Markdown in <section> elements
 					{ src: 'reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+
+					// Syntax highlight for <code> elements
 					{ src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+
+					// CTRL+SHIFT+F
+					{ src: 'reveal.js/plugin/search/search.js', async: true },
+
+					// Zoom in and out with Alt+click
 					{ src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
-					{ src: 'reveal.js/plugin/notes/notes.js', async: true }
+
+					// Speaker notes
+					{ src: 'reveal.js/plugin/notes/notes.js', async: true },
+
+					// MathJax
+					{ src: 'reveal.js/plugin/math/math.js', async: true }
 				]
 			});
 		</script>
