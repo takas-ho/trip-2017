@@ -9,6 +9,8 @@ Note:
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 素人
 
 - コードが書けない、読めない
@@ -18,6 +20,8 @@ Note:
 - 対人スキルが凄いかもしれないけど、学べない
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # いつもExcelを<br>いじってる
 
@@ -32,6 +36,8 @@ Note:
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 残業大好き
 
 - 21時退社で「今日は早いな」視線
@@ -42,6 +48,8 @@ Note:
 - それが上司というか管理者の職務だろ
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # パワハラ
 
@@ -71,6 +79,8 @@ Note:
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 壊れるまで部下を<br>酷使
 
 - 多分
@@ -83,6 +93,8 @@ Note:
 - ★
 
 --
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 ## 脱線
 - 大手SIerのビジネスモデルも同じこと
@@ -97,6 +109,8 @@ Note:
 - 滅びて欲しい
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 来ない、逃げる
 
@@ -113,6 +127,8 @@ Note:
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 知ったかぶり
 
 - 結局、本質がわからない/わかってない
@@ -123,6 +139,8 @@ Note:
 - 本質を理解しようとしない姿勢ががが
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 知ってる！
 
@@ -139,6 +157,8 @@ Note:
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 至高
 
 - 志が高い<span class="fragment fade-up" data-fragment-index="1">（けど完成しない）</span>
@@ -152,6 +172,8 @@ Note:
 ---
 
 <!-- .slide: data-transition="none-out" -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 何かにつけて、<br>「俺が若い頃は…」
 
 - あなたが若い頃は...
@@ -167,6 +189,8 @@ Note:
 --
 
 <!-- .slide: data-transition="none-in" -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 何かにつけて、<br>「俺が若い頃は…」
 - 根性論？精神論？誰のために？
 - 技術は進歩する
@@ -175,6 +199,8 @@ Note:
 	- 勉強できないなら引退しろ
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 仕様書大好き
 
@@ -197,6 +223,8 @@ Note: 似た問題
 	- 私は動くコードとして実行されるようになるまでは、その設計を信用しません。自分のも他人のも。
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 繰り返し作業が<br>大好き
 
 - 面倒なことでも手を動かし続けることで「仕事した」気になってるのかな
@@ -206,11 +234,15 @@ Note: 似た問題
 
 <!-- # 話がまとまらない -->
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # DBテーブル設計<br>できない
 
 - いい歳してあなたは何ができるんだ？
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 嘘つき
 
@@ -221,6 +253,8 @@ Note: 人と人とは信頼関係で成り立っていることをいい歳し�
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 傲慢
 
 - 部下に対して、顧客に対して
@@ -229,6 +263,8 @@ Note: 人と人とは信頼関係で成り立っていることをいい歳し�
 Note: 個人的に図々しい奴は大嫌い
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 顧客の<br>陰口を言う
 
@@ -245,6 +281,8 @@ Note:
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 ## 計画的な有給休暇なのに<br>嫌味を言う
 
 - 突発休暇しまくるならまだしも
@@ -254,6 +292,8 @@ Note: 端的に言えば「嫌な奴」
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 公式
 
 - 先輩 － 尊敬 ＝ ただの年上
@@ -261,11 +301,15 @@ Note: 端的に言えば「嫌な奴」
 Note: 上司ではなく先輩の公式だけど
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
+
 # 新人/中途社員
 
 - ある日、年下で自分より仕事ができる人が入社することを想像してください
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 5年後10年後
 
@@ -276,6 +320,8 @@ Note: 上司ではなく先輩の公式だけど
 Note: みなさん、5年後10年後、こんな上司・先輩になってませんよね？
 
 --
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 - 壊れるまで部下を酷使
 - 部下の失敗から逃げる
@@ -292,6 +338,8 @@ Note:
 - 信用できない、尊敬できない振る舞い。傲慢な態度をとっていませんか？
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 ## <span style="color:orange">おもしろき こともなき世を<br>おもしろく</span>
 
