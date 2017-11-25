@@ -9,7 +9,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 素人
 
@@ -21,7 +21,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # いつもExcelを<br>いじってる
 
@@ -36,7 +36,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 残業大好き
 
@@ -49,7 +49,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # パワハラ
 
@@ -79,7 +79,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 壊れるまで部下を<br>酷使
 
@@ -94,7 +94,7 @@ Note:
 
 --
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 ## 脱線
 - 大手SIerのビジネスモデルも同じこと
@@ -110,7 +110,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 来ない、逃げる
 
@@ -127,7 +127,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 知ったかぶり
 
@@ -140,7 +140,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 知ってる！
 
@@ -157,7 +157,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 至高
 
@@ -172,7 +172,7 @@ Note:
 ---
 
 <!-- .slide: data-transition="none-out" -->
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 何かにつけて、<br>「俺が若い頃は…」
 
@@ -189,7 +189,7 @@ Note:
 --
 
 <!-- .slide: data-transition="none-in" -->
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 何かにつけて、<br>「俺が若い頃は…」
 - 根性論？精神論？誰のために？
@@ -200,7 +200,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 仕様書大好き
 
@@ -223,7 +223,7 @@ Note: 似た問題
 	- 私は動くコードとして実行されるようになるまでは、その設計を信用しません。自分のも他人のも。
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 繰り返し作業が<br>大好き
 
@@ -234,7 +234,7 @@ Note: 似た問題
 
 <!-- # 話がまとまらない -->
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # DBテーブル設計<br>できない
 
@@ -242,7 +242,7 @@ Note: 似た問題
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 嘘つき
 
@@ -253,7 +253,7 @@ Note: 人と人とは信頼関係で成り立っていることをいい歳し�
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 傲慢
 
@@ -264,7 +264,7 @@ Note: 個人的に図々しい奴は大嫌い
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 顧客の<br>陰口を言う
 
@@ -281,7 +281,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 ## 計画的な有給休暇なのに<br>嫌味を言う
 
@@ -292,7 +292,7 @@ Note: 端的に言えば「嫌な奴」
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 公式
 
@@ -301,7 +301,7 @@ Note: 端的に言えば「嫌な奴」
 Note: 上司ではなく先輩の公式だけど
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 新人/中途社員
 
@@ -309,7 +309,7 @@ Note: 上司ではなく先輩の公式だけど
 
 ---
 
-<!-- .slide: data-background-image="emacslogo.png" style="background-color:rgba(0,0,0,0.5) " -->
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 # 5年後10年後
 
@@ -320,6 +320,8 @@ Note: 上司ではなく先輩の公式だけど
 Note: みなさん、5年後10年後、こんな上司・先輩になってませんよね？
 
 --
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 - 壊れるまで部下を酷使
 - 部下の失敗から逃げる
@@ -336,6 +338,8 @@ Note:
 - 信用できない、尊敬できない振る舞い。傲慢な態度をとっていませんか？
 
 ---
+
+<!-- .slide: style="background-color:rgba(0,0,0,0.5) " -->
 
 ## <span style="color:orange">おもしろき こともなき世を<br>おもしろく</span>
 
